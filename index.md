@@ -74,7 +74,7 @@
           
           <li class="workingpaper">
             <div class="paper-title">
-              <a> Modeling Trading Volume with Instrumented PCA </a>, with Dashan Huang and Yubo Tao.
+              <a> Modeling Trading Volume with Instrumented PCA </a>, with Tarun Chordia, Amit Goyal, Dashan Huang, and Yubo Tao.
              </div>
             <!-- <div class="paper-conference">
               Presented at: CICF 2021
