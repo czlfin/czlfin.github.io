@@ -32,7 +32,7 @@
 
          <li class="workingpaper">
             <div class="paper-title">
-             <a href=""> Sticky expectations and cross-firm return predictability</a>, with Hui Ding and Fuwei Jiang, Journal of Business Finance and Accounting, accepted.
+             <a href=""> Sticky expectations and cross-firm return predictability</a>, with Hui Ding and Fuwei Jiang, Journal of Business Finance and Accounting 52, 2278-2298, 2025.
             </div>
           </li>
           
