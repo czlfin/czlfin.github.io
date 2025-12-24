@@ -72,7 +72,26 @@
        </div>
        <div class="row">
         <ul>
-          
+
+          <li class="workingpaper">
+            <div class="paper-title">
+              <a> Talking their Own Book: Brokerage Proprietary Trading and Analyst Bias </a>, with Xingyu Chen and Ronghua Luo.
+             </div>
+            <!-- <div class="paper-conference">
+              Presented at: CICF 2021
+            </div>-->
+          </li>
+
+
+
+           <li class="workingpaper">
+            <div class="paper-title">
+              <a> Partisan Hedge Funds </a>, with Dashan Huang, Lin Sun, and Melvyn Teo.
+             </div>
+            <!-- <div class="paper-conference">
+              Presented at: CICF 2021
+            </div>-->
+          </li>
          
           
           <li class="workingpaper">
@@ -84,14 +103,7 @@
             </div>-->
           </li>
 
-           <li class="workingpaper">
-            <div class="paper-title">
-              <a> Partisan Hedge Funds </a>, with Dashan Huang, Lin Sun, and Melvyn Teo.
-             </div>
-            <!-- <div class="paper-conference">
-              Presented at: CICF 2021
-            </div>-->
-          </li>
+          
 
           
           
