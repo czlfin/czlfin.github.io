@@ -30,6 +30,12 @@
        <div class="row">
         <ul>
 
+        <li class="workingpaper">
+            <div class="paper-title">
+             <a href=""> Proximity to the 52-week high and the risk-return trade-off </a>, with Xingyu Chen, Jun Tu, Liyao Wang, and Luying Wang, Journal of Economic Dynamics and Control 185, 105286, 2026.
+            </div>
+          </li>
+          
          <li class="workingpaper">
             <div class="paper-title">
              <a href=""> Sticky Expectations and Cross-Firm Return Predictability</a>, with Hui Ding and Fuwei Jiang, Journal of Business Finance and Accounting 52, 2278-2298, 2025.
