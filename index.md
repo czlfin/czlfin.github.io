@@ -8,7 +8,6 @@
            <dd>Lingnan University</dd>
            <dt><i class="fa fa-envelope-o" aria-hidden="true"></i></dt>
            <dt><i class="fa fa-file" aria-hidden="true"></i></dt>
-           <dd><a href="cv/czlcv.pdf">Curriculum Vitae</a></dd>
         </div>
       </div>
 
